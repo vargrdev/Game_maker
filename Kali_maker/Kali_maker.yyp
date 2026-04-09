@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
@@ -19,7 +19,9 @@
   },
   "name":"Kali_maker",
   "resources":[
+    {"id":{"name":"person_obj","path":"objects/person_obj/person_obj.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"person_spr","path":"sprites/person_spr/person_spr.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

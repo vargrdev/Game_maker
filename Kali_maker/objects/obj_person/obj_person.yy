@@ -1,16 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"person_obj",
+  "%Name":"obj_person",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"person_obj",
+  "name":"obj_person",
   "overriddenProperties":[],
   "parent":{
-    "name":"Kali_maker",
-    "path":"Kali_maker.yyp",
+    "name":"Obejtos",
+    "path":"folders/Obejtos.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"person_spr",
-    "path":"sprites/person_spr/person_spr.yy",
+    "name":"spr_person",
+    "path":"sprites/spr_person/spr_person.yy",
   },
   "spriteMaskId":null,
   "visible":true,
